@@ -16,7 +16,7 @@ spec:
       values: |
         pushgateway:
           enabled: false
-    repoURL: https://github.com/Anki-27/argocd2.git
+    repoURL: https://prometheus-community.github.io/helm-charts
     targetRevision: 13.0.2
   syncPolicy:
     automated:
